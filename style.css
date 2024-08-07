@@ -6,6 +6,8 @@ body {
     font-family: "Pathway Extreme", sans-serif;
 }
 html {
+    overflow-y: scroll;
+    scroll-behavior: auto;
     scroll-behavior: smooth;
 }
 
