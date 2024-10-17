@@ -18,7 +18,12 @@ html {
     scroll-behavior: auto;
     scroll-behavior: smooth;
 }
-
+.bg-top {
+    background-image: url(./images/bgg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
 .koeung {
     font-family: "Lily Script One", system-ui;
 }
